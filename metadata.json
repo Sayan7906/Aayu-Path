@@ -1,0 +1,6 @@
+{
+  "name": "Aayu Path",
+  "description": "A comprehensive Android app for real-time bed tracking, emergency GPS SOS, ambulance networks, and digital medical locker in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
